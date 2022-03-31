@@ -18,7 +18,7 @@ const TopBar = () => {
               HOME
             </Link>
           </li>
-          <li className="topListItem">
+          {/* <li className="topListItem">
             <Link className="link" to="/">
               ABOUT
             </Link>
@@ -26,7 +26,7 @@ const TopBar = () => {
           <li className="topListItem">
             <Link className="link" to="/"></Link>
             CONTACT
-          </li>
+          </li> */}
           <li className="topListItem">
             <Link className="link" to="/write">
               WRITE
